@@ -1,0 +1,34 @@
+.btnmar{
+    margin-top: 10px;
+    width: 200px;
+    font-size: 14px;
+}
+.boxmargin{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column
+}
+.comcol{
+    color: aquamarine;
+}
+
+.webimg{
+    width: 500px;
+    height: 400px;
+    display: flex;
+}
+
+.center{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.card{
+    display: flex !important;
+    float: left !important;
+    margin: 10px !important;
+    width: 250px !important;
+}
